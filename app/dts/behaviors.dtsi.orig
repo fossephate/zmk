@@ -14,8 +14,11 @@
 #include <behaviors/bluetooth.dtsi>
 #include <behaviors/ext_power.dtsi>
 #include <behaviors/outputs.dtsi>
+<<<<<<< HEAD
 #include <behaviors/caps_word.dtsi>
+=======
 #include <behaviors/mouse_key_press.dtsi>
 #include <behaviors/mouse_move.dtsi>
 #include <behaviors/mouse_scroll.dtsi>
 #include <behaviors/trackball_pim447.dtsi>
+>>>>>>> remotes/mouse/mouse-pim447
